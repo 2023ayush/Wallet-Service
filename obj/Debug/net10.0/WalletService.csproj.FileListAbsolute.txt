@@ -1,0 +1,8 @@
+D:\DotNet Projects\WalletService\obj\Debug\net10.0\WalletService.csproj.AssemblyReference.cache
+D:\DotNet Projects\WalletService\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\DotNet Projects\WalletService\obj\Debug\net10.0\WalletService.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Projects\WalletService\obj\Debug\net10.0\WalletService.AssemblyInfoInputs.cache
+D:\DotNet Projects\WalletService\obj\Debug\net10.0\WalletService.AssemblyInfo.cs
+D:\DotNet Projects\WalletService\obj\Debug\net10.0\WalletService.csproj.CoreCompileInputs.cache
+D:\DotNet Projects\WalletService\obj\Debug\net10.0\WalletService.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNet Projects\WalletService\obj\Debug\net10.0\WalletService.MvcApplicationPartsAssemblyInfo.cache
